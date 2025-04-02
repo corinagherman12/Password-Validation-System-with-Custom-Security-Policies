@@ -1,0 +1,1 @@
+This program implements a Password Validation System that checks user passwords against a series of customizable security policies. The system allows multiple validation rules to be applied to each password, ensuring compliance with specified requirements for length, character types, repetition limits, and more.
